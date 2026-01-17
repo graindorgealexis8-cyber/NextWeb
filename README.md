@@ -1,4 +1,3 @@
-[Nextweb.html](https://github.com/user-attachments/files/24691767/Nextweb.html)
 <!DOCTYPE html>
 <html lang="fr">
 <head>
